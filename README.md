@@ -1,3 +1,13 @@
+## License
+
+AutoFixDetect AI is free and open-source software licensed under the
+GNU General Public License v3.0 (GPL-3.0).
+
+You are free to use, modify, and redistribute this software under the
+terms of the GNU GPL v3.0.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
 
 🔍 ANALISA FITUR UTAMA
 
