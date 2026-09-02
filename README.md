@@ -1,9 +1,3 @@
-ANALISIS SCRIPT AUTOFIXDETECT AI v6.0
-
-
-AutoFixDetect AI adalah alat diagnostik dan perbaikan otomatis untuk sistem Linux yang dilengkapi dengan kemampuan pencarian solusi dari internet dan sistem peningkatan otomatis (auto-upgrade). Script ini merupakan sistem yang cukup kompleks dengan arsitektur modular.
-
----
 
 🔍 ANALISA FITUR UTAMA
 
